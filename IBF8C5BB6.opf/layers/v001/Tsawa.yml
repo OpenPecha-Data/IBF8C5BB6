@@ -1,47 +1,47 @@
-id: 92cb715d84cc4dfe916bcd61d50eba6b
+id: ce5c53e6dc7d4823a351f03d9550471b
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-  c16ed759b6914331b5da8c0a10850eb8:
+  609fa91312fe4d9a9b9ec0a24a818d27:
     span:
       start: 174786
       end: 174822
     isverse: true
-  e051c20fc0a64ae58c59f3f373c6774d:
+  84013582fa074ef68e25fe0a9574a393:
     span:
       start: 175474
       end: 175518
     isverse: true
-  4f7a9cf8effb45e892fdaadd36de883b:
+  2331940323784cc086d6cdb24c3aaf5f:
     span:
       start: 177071
       end: 177116
     isverse: false
-  b042aa13e35a445aa98b566f6fa0f8c3:
+  2883a64df4754feaa529b6ef40afa047:
     span:
       start: 180970
       end: 181014
     isverse: true
-  c94cb229878a4a4780155eb002725746:
+  376d0d914302422da057c684f66bc403:
     span:
       start: 181675
       end: 181716
     isverse: true
-  c0b86c56fee94acdb7df0594126618e8:
+  53b26c24c7194c5c9e1013a865242c48:
     span:
       start: 183285
       end: 183329
     isverse: true
-  34131d4463944938964a4ad6f630bebe:
+  c5589018e95f4df0a96a08c588c1c9a6:
     span:
       start: 184780
       end: 185054
     isverse: true
 local_ids:
-  c16ed759b6914331b5da8c0a10850eb8: 200000
-  e051c20fc0a64ae58c59f3f373c6774d: 200001
-  4f7a9cf8effb45e892fdaadd36de883b: 200002
-  b042aa13e35a445aa98b566f6fa0f8c3: 200003
-  c94cb229878a4a4780155eb002725746: 200004
-  c0b86c56fee94acdb7df0594126618e8: 200005
-  34131d4463944938964a4ad6f630bebe: 200006
+  609fa91312fe4d9a9b9ec0a24a818d27: 200000
+  84013582fa074ef68e25fe0a9574a393: 200001
+  2331940323784cc086d6cdb24c3aaf5f: 200002
+  2883a64df4754feaa529b6ef40afa047: 200003
+  376d0d914302422da057c684f66bc403: 200004
+  53b26c24c7194c5c9e1013a865242c48: 200005
+  c5589018e95f4df0a96a08c588c1c9a6: 200006

@@ -3,19 +3,19 @@ initial_creation_type: ebook
 source_metadata:
   id: BEN-LB-018
   title: སྨྱུང་གནས་ཀྱི་ཆོ་ག་དང་དེའི་ཁྲིད་ཡིག་ལག་ལེན་ཁག་བཅས་བཞུགས་སོ། །
-  author: བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང།
-  authors: &id001
-  - བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང།
+  author: ''
+  authors: &id001 []
   sku: BEN-LB-018
   cover: Benchen_18th_Book_Cover.jpg
   volume: {}
+  publisher: བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང།
+  author_source: none
 ebook_metadata:
   title: སྨྱུང་གནས་ཀྱི་ཆོ་ག་དང་དེའི་ཁྲིད་ཡིག་ལག་ལེན་ཁག་བཅས་བཞུགས་སོ། །
   authors: *id001
   sku: BEN-LB-018
   cover: Benchen_18th_Book_Cover.jpg
 layers:
-- Author
 - BookNumber
 - BookTitle
 - Chapter
